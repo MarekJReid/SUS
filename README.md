@@ -1,7 +1,5 @@
 # SUS
 
-# Project Name (Replace with your actual project name)
-
 This project encompasses four main components: Frontend, Authentication, Software Update Service, and Database. This `README` provides instructions for dockerizing each component, how developers should proceed through each phase, and how to set up a local instance for development.
 
 ## Dockerization
